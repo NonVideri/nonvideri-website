@@ -55,7 +55,7 @@ export default function Skills() {
               <li>SQL (PostgreSQL, SQLite)</li>
               <li>Git</li>
               <li>Linux, bash</li>
-              <li>DevOps maintenance (AWS, GHA)</li>
+              <li>DevOps maintenance</li>
               <li>AI-supported programming</li>
             </SkillsList>
           </Column>
